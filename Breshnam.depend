@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1385316876 source:c:\users\wohhie\onedrive\public\opengl\breshnam\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1434498040 source:c:\users\wohhie\onedrive\public\opengl\breshnam\breshnam.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+
